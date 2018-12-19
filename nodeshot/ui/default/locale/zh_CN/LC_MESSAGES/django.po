@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-14 15:08+0800\n"
-"PO-Revision-Date: 2018-06-16 20:05+0806\n"
-"Last-Translator:   <user@163.com>\n"
+"PO-Revision-Date: 2018-12-18 10:44+0806\n"
+"Last-Translator:   <admin@163.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -381,7 +381,7 @@ msgstr "已添加"
 #: templates/includes/node-details.html:124
 #: templates/includes/node-list.html:104
 msgid "Updated"
-msgstr "更新"
+msgstr "更新时间"
 
 #: templates/includes/node-details.html:133
 msgid "Rating"
@@ -469,7 +469,7 @@ msgstr "添加节点"
 
 #: templates/includes/node-list.html:103
 msgid "Created"
-msgstr "创建"
+msgstr "创建时间"
 
 #: templates/includes/node-list.html:116
 msgid "previous"
