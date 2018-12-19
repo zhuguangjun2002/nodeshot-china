@@ -73,7 +73,7 @@ influxdb==2.9.2
 tld
 
 # avoid breaking the build
-pyOpenSSL==16.2.0
+pyOpenSSL==18.0.0
 
 # slug for chinese
 django-uuslug==1.1.8
